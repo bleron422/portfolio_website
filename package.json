@@ -1,5 +1,6 @@
 {
   "name": "portfolio_nextjs",
+  "homepage": "https://bleron422.github.io/portfolio_nextjs",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -8,6 +9,8 @@
     "start": "next start"
   },
   "dependencies": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "next": "10.2.3",
     "react": "17.0.2",
     "react-anime": "^4.1.1",
