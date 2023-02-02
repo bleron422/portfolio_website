@@ -1,11 +1,11 @@
 {
   "name": "portfolio_nextjs",
   "version": "0.1.0",
+  "homepage": "https://bleron422.github.io/portfolio_website",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build && next export",
-    "homepage": "https://bleron422.github.io/portfolio_website",
     "start": "next-start"
   },
   "dependencies": {
