@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build && next export",
+    "homepage": "https://bleron422.github.io/portfolio_website",
     "start": "next-start"
   },
   "dependencies": {
