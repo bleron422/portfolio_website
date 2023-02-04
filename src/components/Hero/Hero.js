@@ -11,6 +11,7 @@ const Hero = (props) => (
       <SectionTitle main center>
         <h1>I'm Bleron Murseli</h1>
         <Typed 
+         style={{marginLeft: '7.5px'}}
          strings={[
            "Welcome To My Personal Portfolio",
          ]}
