@@ -46,7 +46,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-      I am a web developer with over 2 years of experience in building responsive, user-friendly websites and applications. I specialize in HTML, CSS, JavaScript, and React and have a strong background in web design and project management. I am passionate about creating intuitive, visually-appealing user interfaces and am always looking for new ways to improve the user experience.      </SectionText>
+      I am a web developer with over 5 years of experience in building responsive, user-friendly websites and applications. I specialize in HTML, CSS, JavaScript, and React and have a strong background in web design and project management. I am passionate about creating intuitive, visually-appealing user interfaces and am always looking for new ways to improve the user experience.      </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
           {TimeLineData.map((item, index) => (
